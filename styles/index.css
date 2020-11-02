@@ -24,8 +24,6 @@ body {
   margin: auto;
   padding: 3em 1.25em;
   max-width: 800px;
-  /* Fix for netlify not caching this properly */
-  background: url(../img/profile-lines-invert.svg) no-repeat center center;
   background: url(../img/profile-lines.svg) no-repeat center center;
 }
 h1.title {
@@ -66,9 +64,6 @@ p {
   body {
     background-color: var(--black);
     color: var(--white);
-  }
-  #content {
-      background: url(../img/profile-lines-invert.svg) no-repeat center center;
   }
   a:link,
   a:visited {
