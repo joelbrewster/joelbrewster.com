@@ -1,0 +1,75 @@
+:root {
+  --white: #fefefe;
+  --black: #242424;
+  --blue: #0000ff;
+  --blue-light: #3390ff;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.75px;
+  line-height: 1.5em;
+  text-align: left;
+  background-color: var(--white);
+  color: var(--black);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+#content {
+  margin: auto;
+  padding: 3em 1.25em;
+  max-width: 800px;
+  background: url(../img/profile-lines.svg) no-repeat center center;
+}
+h1.title {
+  padding-bottom: 1em;
+  font-weight: 600;
+  margin: 0;
+  text-align: left;
+}
+h2 {
+  padding-bottom: 0.75em;
+}
+h3 {
+  padding-bottom: 0.5em;
+}
+a:link,
+a:visited {
+  color: #0000ff;
+  font-weight: 400;
+  text-decoration: none;
+}
+p {
+  padding: 0 0 0.5em;
+}
+.outline-2,
+.outline-3,
+.outline-4 {
+  padding: 1.5em 0;
+}
+@media (min-width: 1680px) {
+  body {
+    font-size: 1vw;
+  }
+  #content {
+    max-width: 900px;
+  }
+}
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--black);
+    color: var(--white);
+  }
+  #content {
+    background: url(../img/profile-lines-invert.svg) no-repeat center center;
+  }
+  a:link,
+  a:visited {
+    color: var(--blue-light);
+  }
+}

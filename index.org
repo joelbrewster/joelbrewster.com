@@ -1,0 +1,36 @@
+#+TITLE: Joel Brewster
+#+STARTUP: inlineimages
+#+LANGUAGE: en
+#+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.css" />
+
+* About me
+
+I am a passionate and curious Melbourne based developer with a penchant for front-end development. I enjoy creating engaging experiences, coding pixel perfect interfaces and making the web accessible for all. I love solving problems, coding, studying, plain text, music and chocolate.
+
+My skill-set revolves around HTML, CSS (SASS, SCSS), JavaScript, jQuery, PHP, WordPress, WordPress API, Gatsby, ACF, Composer, Yarn, Gulp, Git, React, WHM, cPanel, GA, GTM, Mac OS, Linux, Sketch, Figma, Photoshop, Vim and for everything else, Emacs.
+
+
+** Projects
+Here are some projects that I've worked on that I've enjoyed:
+
+[[https://nextandco.com.au][Next&Co]],
+[[https://www.campbellpage.com.au][Campbell Page]],
+[[https://www.dunlopdiy.com][DunlopDIY]],
+[[https://www.mid.org.au][Melbourne Innovation Districts]],
+[[https://www.ardex.com][Ardex]],
+[[https://littlemaymusic.com/][Little May]],
+[[https://mwf.com.au/][Melbourne Writers Festival 2018]],
+[[https://www.invictusgames2018.com/][Invictus Games 2018]],
+[[http://cmcrocks.com/][CMC Rocks]],
+[[https://nowsound.online/][Now Sound Melbourne's Listening]],
+[[https://queensplacemelbourne.com.au][Queens Place Melbourne]],
+[[https://www.jblwwc.com.au/][JBL Weekend Warrior]],
+[[https://www.djjohnhoward.com/][DJ John Howard]],
+[[https://rothelowman.com.au/][Rothelowman]],
+[[http://bingefest.sydneyoperahouse.com/][Sydney Opera House - Bingefest]],
+[[https://www.the5th.co/][The 5th Watches]],
+[[https://joelbrewster.github.io/zero-player/index.html][Zero-player app]]
+
+*** Links
+[[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster]\]][LinkedIn]], [[https://www.joelbrewster.com/joelbrewster_resume][Résumé]]
