@@ -37,7 +37,7 @@ I am a passionate and curious Melbourne based developer with a penchant for fron
 *** *Zero-player App* - https://joelbrewster.github.io/zero-player/index.html
 
 ** EMPLOYMENT HISTORY
-*** Next&Co (formerly GMG Digital)
+*** *Next&Co* (formerly GMG Digital)
 **** Nov 2019 - Current | Melbourne, Victoria, Australia
 
 *** *Bone Digital*
@@ -75,8 +75,8 @@ B.A of Contemporary Music /2003 - 2005/
 English, Korean
 
 ** EMPLOYMENT AND EDUCATION EXPERIENCES
-*** Next&Co (formerly GMG Digital)
-Nov 2019 - Current | Melbourne, Victoria, Australia
+*** *Next&Co* (formerly GMG Digital)
+/Nov 2019 - Current/ | Melbourne, Victoria, Australia
 
 At Next&Co I am the sole developer. I set up builds from scratch to deployment. I also fix and alter existing builds, add new features and always try to find the best solution for clients going forward.
 I build out CRO (Conversion Rate Optimisation) tests for clients to benchmark and assess conversion and quantify a user experience. Based off these tests, we would implement the performant test within the client roadmap.
