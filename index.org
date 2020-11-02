@@ -12,7 +12,7 @@ My skill-set revolves around HTML, CSS (SASS, SCSS), JavaScript, jQuery, PHP, Wo
 
 
 ** Projects
-Here are some projects that I've worked on that I've enjoyed:
+Here are some projects that I've really enjoyed working on:
 
 [[https://nextandco.com.au][Next&Co]],
 [[https://www.campbellpage.com.au][Campbell Page]],
