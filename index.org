@@ -33,4 +33,4 @@ Here are some projects that I've worked on that I've enjoyed:
 [[https://joelbrewster.github.io/zero-player/index.html][Zero-player app]]
 
 *** Links
-[[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster]\]][LinkedIn]], [[https://www.joelbrewster.com/joelbrewster_resume][Résumé]]
+[[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster][LinkedIn]], [[https://www.joelbrewster.com/joelbrewster_resume][Résumé]]
