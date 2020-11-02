@@ -68,7 +68,7 @@ p {
     color: var(--white);
   }
   #content {
-      background: url(../img/profile-lines.svg) no-repeat center center;
+      background: url(../img/profile-lines-invert.svg) no-repeat center center;
   }
   a:link,
   a:visited {
