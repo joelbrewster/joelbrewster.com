@@ -3,7 +3,7 @@
 #+LANGUAGE: en
 #+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/resume.css" />
-# wkhtmltopdf -d 72 -s A4 joelbrewster_resume.html joelbrewster_resume.pdf
+# wkhtmltopdf -d 72 -s A4 www.joelbrewster.com/joelbrewster_resume.html joelbrewster_resume.pdf
 
 
 + Looking for new opportunities in 2021.
