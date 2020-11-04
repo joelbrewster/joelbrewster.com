@@ -5,18 +5,18 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.css" />
 
 * About me
-
 I am a passionate and curious Melbourne based developer with a penchant for front-end development. I enjoy creating engaging experiences, coding pixel perfect interfaces and making the web accessible for all. I love solving problems, coding, studying, plain text, music and chocolate.
 
 My skill-set revolves around HTML, CSS (SASS, SCSS), JavaScript, jQuery, PHP, WordPress, WordPress API, Gatsby, ACF, React, Composer, Yarn, Gulp, Git, WHM, cPanel, GA, GTM, Mac OS, Linux, Sketch, Figma, Photoshop, Vim and for everything else, Emacs.
 
 
 ** Projects
-Here are some projects that I've really enjoyed working on:
+Here are some projects that I've really enjoyed working on professionally:
 
 [[https://nextandco.com.au][Next&Co]],
 [[https://www.campbellpage.com.au][Campbell Page]],
 [[https://www.dunlopdiy.com][DunlopDIY]],
+[[https://morrismotley.com][Morris Motley]],
 [[https://www.mid.org.au][Melbourne Innovation Districts]],
 [[https://www.ardex.com][Ardex]],
 [[https://littlemaymusic.com/][Little May]],
@@ -29,8 +29,26 @@ Here are some projects that I've really enjoyed working on:
 [[https://www.djjohnhoward.com/][DJ John Howard]],
 [[https://rothelowman.com.au/][Rothelowman]],
 [[http://bingefest.sydneyoperahouse.com/][Sydney Opera House - Bingefest]],
-[[https://www.the5th.co/][The 5th Watches]],
-[[https://joelbrewster.github.io/zero-player/index.html][Zero-player app]]
+[[https://www.the5th.co/][The 5th Watches]].
+
+
+Here are some personal projects that I've had fun with:
+
+- [[https://www.gloststudios.com][Glost Studios]]
+
+  An online shop for my wonderfully talented and lovely sister (shop open in 2021).
+- [[https://zero-player.netlify.app][Zero-player app]]
+
+  An interface that creates random melodies and chords from cellular automation patterns - desktop Firefox and Chrome only.
+- [[https://magic-words-study.netlify.app][Magic words study]]
+
+  A study app covering frequency words for Victorian prep classes - optimised for phones.
+- [[https://subitising-study.netlify.app][Subitising Study]]
+
+  A conceptual subitising app for younger children to practice - optimised for phones.
+- [[https://alphabet-and-numbers.netlify.app][Alphabet and Numbers]]
+
+  A learning aid for toddlers to recognise the alphabet and numerical characters - optimised for desktops.
 
 *** Links
 [[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster][LinkedIn]], [[https://www.joelbrewster.com/joelbrewster_resume][Résumé]]

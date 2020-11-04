@@ -81,7 +81,7 @@ English, Korean
 At Next&Co I am the sole developer. I set up builds from scratch to deployment. I also fix and alter existing builds, add new features and always try to find the best solution for clients going forward.
 I build out CRO (Conversion Rate Optimisation) tests for clients to benchmark and assess conversion and quantify a user experience. Based off these tests, we would implement the performant test within the client roadmap.
 
-/Gatsby, WordPress (ACF), SCSS, cPanel, GTM, GA, CRO, Git, JavaScript, jQuery, npm/
+/Gatsby, WordPress (ACF), Shopify, SCSS, cPanel, GTM, GA, CRO, Git, JavaScript, jQuery, npm/
 
 *** *Bone Digital*
 /Feb 2019 - Oct 2019/ | Melbourne, Victoria, Australia
@@ -93,7 +93,7 @@ At Bone Digital I was across the full stack. I set up custom site builds, struct
 *** *Bolster*
 /Jun 2018 - Nov 2018/ | Melbourne, Victoria, Australia
 
-At Bolster, I worked on small to medium custom WordPress builds, landing pages and supported senior developers when needed so they could work on larger builds. I worked on music festival sites and built artist pages and a larger site from start to finish using their Trellis setup. Each site was highly custom, with each module and page having the ability to be altered; from main colors to element alignment and padding options from the backend all reflected on the frontend.
+At Bolster, I worked on small to medium custom WordPress builds, landing pages and supported senior developers when needed so they could work on larger builds. I worked on music festival sites and built artist pages and a larger site from start to finish using their Trellis setup. Each site was highly custom, with each module and page having the ability to be altered; from main colors to element alignment and padding options from the backend all reflected on the front end.
 
 /WordPress, SASS (BEM), Javascript, ACF, Composer, Yarn, Gulp, Blade, Twig, Git, GA, GTM./
 
