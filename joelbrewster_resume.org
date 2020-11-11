@@ -1,6 +1,8 @@
 #+TITLE: Joel Brewster
 #+STARTUP: inlineimages
 #+LANGUAGE: en
+#+DESCRIPTION: Joel Brewster is a Melbourne based front end developer that enjoys creating engaging experiences, coding pixel perfect interfaces and making the web accessible for all.
+#+LANGUAGE: en
 #+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/resume.css" />
 # wkhtmltopdf -d 72 -s A4 www.joelbrewster.com/joelbrewster_resume.html joelbrewster_resume.pdf
