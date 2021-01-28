@@ -9,9 +9,6 @@
 * About me
 I am a passionate and curious Melbourne based developer with a penchant for front-end development. I enjoy creating engaging experiences, coding pixel perfect interfaces and making the web accessible for all. I love solving problems, coding, studying, plain text, music and chocolate.
 
-My skill-set revolves around HTML, CSS (SASS, SCSS), JavaScript, jQuery, PHP, WordPress, WordPress API, Gatsby, ACF, React, Composer, Yarn, Gulp, Git, WHM, cPanel, GA, GTM, Mac OS, Linux, Sketch, Figma, Photoshop, Vim and for everything else, Emacs.
-
-
 ** Projects
 Here are some projects that I've really enjoyed working on professionally:
 
@@ -38,7 +35,7 @@ Here are some personal projects that I've had fun with:
 
 - [[https://www.gloststudios.com][Glost Studios]]
 
-  An online shop for my wonderfully talented and lovely sister (shop open in 2021).
+  An online shop/teaching portal for my wonderfully talented and lovely sister.
 - [[https://zero-player.netlify.app][Zero-player app]]
 
   An interface that creates random melodies and chords from cellular automation patterns - desktop Firefox and Chrome only.
