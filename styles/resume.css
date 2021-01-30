@@ -4,6 +4,14 @@
  * Print options
  * Screen options
  */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
+:root {
+    --white: #fefefe;
+    --black: #242424;
+    --blue: #0000ff;
+    --blue-light: #3390ff;
+}
 
 @page {
     margin: 2.54cm;
@@ -63,6 +71,10 @@
         letter-spacing: .75px;
         line-height: 30px;
         text-align: left;
+    }
+
+    h1, h2, h3 {
+	font-family: "IBM Plex Sans", sans-serif;
     }
 
     #content {
@@ -136,7 +148,7 @@
     }
 
     h2 {
-        color: #0000ff;
+	color: var(--blue);
         font-size: 1.25em;
         font-weight: 800;
         margin-bottom: 10px;
@@ -165,7 +177,7 @@
     }
 
     a:link, a:visited {
-        color: #0000ff;
+	color: var(--blue);
         font-weight: 300;
         text-decoration: none;
     }
@@ -178,5 +190,19 @@
         list-style-type: none;
         padding-left: 0;
         position: relative;
+    }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--black);
+        color: var(--white);
+    }
+    a:link,
+    a:visited {
+        color: var(--blue-light);
+    }
+    h2 {
+	color: var(--blue-light);
     }
 }

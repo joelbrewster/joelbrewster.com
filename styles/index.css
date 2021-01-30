@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
 :root {
     --white: #fefefe;
     --black: #242424;
@@ -22,21 +24,26 @@ body {
 }
 #content {
     margin: auto;
-    padding: 3em 1.25em;
+    padding: 3rem 1.25rem;
     max-width: 800px;
     background: url(../img/profile-lines.svg) no-repeat center center;
 }
+h1, h2, h3 {
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
 h1.title {
-    padding-bottom: 1em;
+    font-size: 2.25em;
+    padding-bottom: 3rem;
     font-weight: 600;
     margin: 0;
     text-align: left;
 }
 h2 {
-    padding-bottom: 0.75em;
+    padding-bottom: 0.75rem;
 }
 h3 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.5rem;
 }
 a:link,
 a:visited {
@@ -51,20 +58,29 @@ a:visited {
 
     }
 }
-p {
-    padding: 0 0 0.5em;
+li:before {
+    content: "—";
+    position: absolute;
+    left: -1.5rem;
+    display: inline-block;
+    color: var(--white);
 }
 li {
-    margin-left: 1em;
+    margin-left: 1.5rem;
     position: relative;
+    list-style-type: none;
 }
 li p:first-of-type {
     padding: 0;
 }
-.outline-2,
-.outline-3,
+.outline-2 {
+    padding: 3rem 0;
+}
+.outline-3 {
+    padding: 2rem 0;
+}
 .outline-4 {
-    padding: 1.5em 0;
+    padding: 1.85rem 0;
 }
 @media (min-width: 1680px) {
     body {
@@ -83,4 +99,8 @@ li p:first-of-type {
     a:visited {
         color: var(--blue-light);
     }
+}
+
+.outline-text-2 p {
+    padding-bottom: .5rem;
 }

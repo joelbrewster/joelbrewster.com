@@ -6,11 +6,12 @@
 #+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.css" />
 
-* About me
-I am a passionate and curious Melbourne based developer with a penchant for front-end development. I enjoy creating engaging experiences, coding pixel perfect interfaces and making the web accessible for all. I love solving problems, coding, studying, plain text, music and chocolate.
+I am a *passionate* and *curious* Melbourne based *front-end developer*.
 
-** Projects
-Here are some projects that I've really enjoyed working on professionally:
+I enjoy *creating* engaging experiences, *coding* pixel perfect interfaces, *solving* problems and *making* the web *accessible* for all.
+
+* WORK:
+Here are some memorable projects that I've really enjoyed working on professionally:
 
 [[https://nextandco.com.au][Next&Co]],
 [[https://www.campbellpage.com.au][Campbell Page]],
@@ -31,11 +32,11 @@ Here are some projects that I've really enjoyed working on professionally:
 [[https://www.the5th.co/][The 5th Watches]].
 
 
-Here are some personal projects that I've had fun with:
+** PROJECTS:
 
 - [[https://www.gloststudios.com][Glost Studios]]
 
-  An online shop/teaching portal for my wonderfully talented and lovely sister.
+  An online shop for my wonderfully talented and lovely sister.
 - [[https://zero-player.netlify.app][Zero-player app]]
 
   An interface that creates random melodies and chords from cellular automation patterns - desktop Firefox and Chrome only.
@@ -49,5 +50,7 @@ Here are some personal projects that I've had fun with:
 
   A learning aid for toddlers to recognise the alphabet and numerical characters - optimised for desktops.
 
-*** Links
-[[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster][LinkedIn]], [[https://www.joelbrewster.com/joelbrewster_resume][Résumé]]
+*** CONTACT:
+[[https://www.joelbrewster.com/joelbrewster_resume][Résumé]], [[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster][Linkedin]]
+
+
