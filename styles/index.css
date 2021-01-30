@@ -63,7 +63,7 @@ li:before {
     position: absolute;
     left: -1.5rem;
     display: inline-block;
-    color: var(--white);
+    color: var(--blue);
 }
 li {
     margin-left: 1.5rem;
@@ -98,6 +98,9 @@ li p:first-of-type {
     a:link,
     a:visited {
         color: var(--blue-light);
+    }
+    li:before {
+	color: var(--blue-light);
     }
 }
 
