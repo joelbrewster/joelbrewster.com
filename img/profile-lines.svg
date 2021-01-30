@@ -2,437 +2,437 @@
  .profileanimation_0{
     stroke-dasharray:10 12;
     stroke-dashoffset:11;
-    animation:profileanimation_draw 30s linear 00ms forwards;
+    animation:profileanimation_draw 10s linear 00ms forwards;
 }
 .profileanimation_1{
     stroke-dasharray:133 135;
     stroke-dashoffset:134;
-    animation:profileanimation_draw 30s linear 110ms forwards;
+    animation:profileanimation_draw 10s linear 110ms forwards;
 }
 .profileanimation_2{
     stroke-dasharray:90 92;
     stroke-dashoffset:91;
-    animation:profileanimation_draw 30s linear 230ms forwards;
+    animation:profileanimation_draw 10s linear 230ms forwards;
 }
 .profileanimation_3{
     stroke-dasharray:17 19;
     stroke-dashoffset:18;
-    animation:profileanimation_draw 30s linear 340ms forwards;
+    animation:profileanimation_draw 10s linear 340ms forwards;
 }
 .profileanimation_4{
     stroke-dasharray:17 19;
     stroke-dashoffset:18;
-    animation:profileanimation_draw 30s linear 460ms forwards;
+    animation:profileanimation_draw 10s linear 460ms forwards;
 }
 .profileanimation_5{
     stroke-dasharray:680 682;
     stroke-dashoffset:681;
-    animation:profileanimation_draw 30s linear 580ms forwards;
+    animation:profileanimation_draw 10s linear 580ms forwards;
 }
 .profileanimation_6{
     stroke-dasharray:1524 1526;
     stroke-dashoffset:1525;
-    animation:profileanimation_draw 30s linear 690ms forwards;
+    animation:profileanimation_draw 10s linear 690ms forwards;
 }
 .profileanimation_7{
     stroke-dasharray:9 11;
     stroke-dashoffset:10;
-    animation:profileanimation_draw 30s linear 860ms forwards;
+    animation:profileanimation_draw 10s linear 860ms forwards;
 }
 .profileanimation_8{
     stroke-dasharray:20 22;
     stroke-dashoffset:21;
-    animation:profileanimation_draw 30s linear 930ms forwards;
+    animation:profileanimation_draw 10s linear 930ms forwards;
 }
 .profileanimation_9{
     stroke-dasharray:10 12;
     stroke-dashoffset:11;
-    animation:profileanimation_draw 30s linear 1040ms forwards;
+    animation:profileanimation_draw 10s linear 1040ms forwards;
 }
 .profileanimation_10{
     stroke-dasharray:11 13;
     stroke-dashoffset:12;
-    animation:profileanimation_draw 30s linear 1160ms forwards;
+    animation:profileanimation_draw 10s linear 1160ms forwards;
 }
 .profileanimation_11{
     stroke-dasharray:69 71;
     stroke-dashoffset:70;
-    animation:profileanimation_draw 30s linear 1270ms forwards;
+    animation:profileanimation_draw 10s linear 1270ms forwards;
 }
 .profileanimation_12{
     stroke-dasharray:18 20;
     stroke-dashoffset:19;
-    animation:profileanimation_draw 30s linear 1390ms forwards;
+    animation:profileanimation_draw 10s linear 1390ms forwards;
 }
 .profileanimation_13{
     stroke-dasharray:18 20;
     stroke-dashoffset:19;
-    animation:profileanimation_draw 30s linear 1569ms forwards;
+    animation:profileanimation_draw 10s linear 1569ms forwards;
 }
 .profileanimation_14{
     stroke-dasharray:58 60;
     stroke-dashoffset:59;
-    animation:profileanimation_draw 30s linear 1620ms forwards;
+    animation:profileanimation_draw 10s linear 1620ms forwards;
 }
 .profileanimation_15{
     stroke-dasharray:39 41;
     stroke-dashoffset:40;
-    animation:profileanimation_draw 30s linear 1740ms forwards;
+    animation:profileanimation_draw 10s linear 1740ms forwards;
 }
 .profileanimation_16{
     stroke-dasharray:96 98;
     stroke-dashoffset:97;
-    animation:profileanimation_draw 30s linear 1860ms forwards;
+    animation:profileanimation_draw 10s linear 1860ms forwards;
 }
 .profileanimation_17{
     stroke-dasharray:13 15;
     stroke-dashoffset:14;
-    animation:profileanimation_draw 30s linear 1970ms forwards;
+    animation:profileanimation_draw 10s linear 1970ms forwards;
 }
 .profileanimation_18{
     stroke-dasharray:22 24;
     stroke-dashoffset:23;
-    animation:profileanimation_draw 30s linear 2090ms forwards;
+    animation:profileanimation_draw 10s linear 2090ms forwards;
 }
 .profileanimation_19{
     stroke-dasharray:16 18;
     stroke-dashoffset:17;
-    animation:profileanimation_draw 30s linear 2200ms forwards;
+    animation:profileanimation_draw 10s linear 2200ms forwards;
 }
 .profileanimation_20{
     stroke-dasharray:24 26;
     stroke-dashoffset:25;
-    animation:profileanimation_draw 30s linear 2320ms forwards;
+    animation:profileanimation_draw 10s linear 2320ms forwards;
 }
 .profileanimation_21{
     stroke-dasharray:17 19;
     stroke-dashoffset:18;
-    animation:profileanimation_draw 30s linear 2440ms forwards;
+    animation:profileanimation_draw 10s linear 2440ms forwards;
 }
 .profileanimation_22{
     stroke-dasharray:16 18;
     stroke-dashoffset:17;
-    animation:profileanimation_draw 30s linear 2550ms forwards;
+    animation:profileanimation_draw 10s linear 2550ms forwards;
 }
 .profileanimation_23{
     stroke-dasharray:52 54;
     stroke-dashoffset:53;
-    animation:profileanimation_draw 30s linear 2670ms forwards;
+    animation:profileanimation_draw 10s linear 2670ms forwards;
 }
 .profileanimation_24{
     stroke-dasharray:10 12;
     stroke-dashoffset:11;
-    animation:profileanimation_draw 30s linear 2790ms forwards;
+    animation:profileanimation_draw 10s linear 2790ms forwards;
 }
 .profileanimation_25{
     stroke-dasharray:133 135;
     stroke-dashoffset:134;
-    animation:profileanimation_draw 30s linear 2900ms forwards;
+    animation:profileanimation_draw 10s linear 2900ms forwards;
 }
 .profileanimation_26{
     stroke-dasharray:85 87;
     stroke-dashoffset:86;
-    animation:profileanimation_draw 30s linear 3020ms forwards;
+    animation:profileanimation_draw 10s linear 3020ms forwards;
 }
 .profileanimation_27{
     stroke-dasharray:28 30;
     stroke-dashoffset:29;
-    animation:profileanimation_draw 30s linear 3130ms forwards;
+    animation:profileanimation_draw 10s linear 3130ms forwards;
 }
 .profileanimation_28{
     stroke-dasharray:19 21;
     stroke-dashoffset:20;
-    animation:profileanimation_draw 30s linear 3250ms forwards;
+    animation:profileanimation_draw 10s linear 3250ms forwards;
 }
 .profileanimation_29{
     stroke-dasharray:36 38;
     stroke-dashoffset:37;
-    animation:profileanimation_draw 30s linear 3370ms forwards;
+    animation:profileanimation_draw 10s linear 3370ms forwards;
 }
 .profileanimation_30{
     stroke-dasharray:24 26;
     stroke-dashoffset:25;
-    animation:profileanimation_draw 30s linear 3480ms forwards;
+    animation:profileanimation_draw 10s linear 3480ms forwards;
 }
 .profileanimation_31{
     stroke-dasharray:30 32;
     stroke-dashoffset:31;
-    animation:profileanimation_draw 30s linear 3600ms forwards;
+    animation:profileanimation_draw 10s linear 3600ms forwards;
 }
 .profileanimation_32{
     stroke-dasharray:98 100;
     stroke-dashoffset:99;
-    animation:profileanimation_draw 30s linear 3720ms forwards;
+    animation:profileanimation_draw 10s linear 3720ms forwards;
 }
 .profileanimation_33{
     stroke-dasharray:10 12;
     stroke-dashoffset:11;
-    animation:profileanimation_draw 30s linear 3830ms forwards;
+    animation:profileanimation_draw 10s linear 3830ms forwards;
 }
 .profileanimation_34{
     stroke-dasharray:23 25;
     stroke-dashoffset:24;
-    animation:profileanimation_draw 30s linear 3950ms forwards;
+    animation:profileanimation_draw 10s linear 3950ms forwards;
 }
 .profileanimation_35{
     stroke-dasharray:25 27;
     stroke-dashoffset:26;
-    animation:profileanimation_draw 30s linear 4060ms forwards;
+    animation:profileanimation_draw 10s linear 4060ms forwards;
 }
 .profileanimation_36{
     stroke-dasharray:22 24;
     stroke-dashoffset:23;
-    animation:profileanimation_draw 30s linear 4180ms forwards;
+    animation:profileanimation_draw 10s linear 4180ms forwards;
 }
 .profileanimation_37{
     stroke-dasharray:63 65;
     stroke-dashoffset:64;
-    animation:profileanimation_draw 30s linear 4300ms forwards;
+    animation:profileanimation_draw 10s linear 4300ms forwards;
 }
 .profileanimation_38{
     stroke-dasharray:22 24;
     stroke-dashoffset:23;
-    animation:profileanimation_draw 30s linear 4410ms forwards;
+    animation:profileanimation_draw 10s linear 4410ms forwards;
 }
 .profileanimation_39{
     stroke-dasharray:14 16;
     stroke-dashoffset:15;
-    animation:profileanimation_draw 30s linear 4530ms forwards;
+    animation:profileanimation_draw 10s linear 4530ms forwards;
 }
 .profileanimation_40{
     stroke-dasharray:44 46;
     stroke-dashoffset:45;
-    animation:profileanimation_draw 30s linear 4650ms forwards;
+    animation:profileanimation_draw 10s linear 4650ms forwards;
 }
 .profileanimation_41{
     stroke-dasharray:11 13;
     stroke-dashoffset:12;
-    animation:profileanimation_draw 30s linear 4760ms forwards;
+    animation:profileanimation_draw 10s linear 4760ms forwards;
 }
 .profileanimation_42{
     stroke-dasharray:40 42;
     stroke-dashoffset:41;
-    animation:profileanimation_draw 30s linear 4880ms forwards;
+    animation:profileanimation_draw 10s linear 4880ms forwards;
 }
 .profileanimation_43{
     stroke-dasharray:8 10;
     stroke-dashoffset:9;
-    animation:profileanimation_draw 30s linear 5000ms forwards;
+    animation:profileanimation_draw 10s linear 5000ms forwards;
 }
 .profileanimation_44{
     stroke-dasharray:45 47;
     stroke-dashoffset:46;
-    animation:profileanimation_draw 30s linear 5110ms forwards;
+    animation:profileanimation_draw 10s linear 5110ms forwards;
 }
 .profileanimation_45{
     stroke-dasharray:182 184;
     stroke-dashoffset:183;
-    animation:profileanimation_draw 30s linear 5230ms forwards;
+    animation:profileanimation_draw 10s linear 5230ms forwards;
 }
 .profileanimation_46{
     stroke-dasharray:40 42;
     stroke-dashoffset:41;
-    animation:profileanimation_draw 30s linear 5340ms forwards;
+    animation:profileanimation_draw 10s linear 5340ms forwards;
 }
 .profileanimation_47{
     stroke-dasharray:9 11;
     stroke-dashoffset:10;
-    animation:profileanimation_draw 30s linear 5460ms forwards;
+    animation:profileanimation_draw 10s linear 5460ms forwards;
 }
 .profileanimation_48{
     stroke-dasharray:18 20;
     stroke-dashoffset:19;
-    animation:profileanimation_draw 30s linear 5580ms forwards;
+    animation:profileanimation_draw 10s linear 5580ms forwards;
 }
 .profileanimation_49{
     stroke-dasharray:11 13;
     stroke-dashoffset:12;
-    animation:profileanimation_draw 30s linear 5690ms forwards;
+    animation:profileanimation_draw 10s linear 5690ms forwards;
 }
 .profileanimation_50{
     stroke-dasharray:24 26;
     stroke-dashoffset:25;
-    animation:profileanimation_draw 30s linear 5810ms forwards;
+    animation:profileanimation_draw 10s linear 5810ms forwards;
 }
 .profileanimation_51{
     stroke-dasharray:13 15;
     stroke-dashoffset:14;
-    animation:profileanimation_draw 30s linear 5930ms forwards;
+    animation:profileanimation_draw 10s linear 5930ms forwards;
 }
 .profileanimation_52{
     stroke-dasharray:20 22;
     stroke-dashoffset:21;
-    animation:profileanimation_draw 30s linear 6040ms forwards;
+    animation:profileanimation_draw 10s linear 6040ms forwards;
 }
 .profileanimation_53{
     stroke-dasharray:32 34;
     stroke-dashoffset:33;
-    animation:profileanimation_draw 30s linear 6160ms forwards;
+    animation:profileanimation_draw 10s linear 6160ms forwards;
 }
 .profileanimation_54{
     stroke-dasharray:34 36;
     stroke-dashoffset:35;
-    animation:profileanimation_draw 30s linear 6270ms forwards;
+    animation:profileanimation_draw 10s linear 6270ms forwards;
 }
 .profileanimation_55{
     stroke-dasharray:10 12;
     stroke-dashoffset:11;
-    animation:profileanimation_draw 30s linear 6390ms forwards;
+    animation:profileanimation_draw 10s linear 6390ms forwards;
 }
 .profileanimation_56{
     stroke-dasharray:18 20;
     stroke-dashoffset:19;
-    animation:profileanimation_draw 30s linear 6510ms forwards;
+    animation:profileanimation_draw 10s linear 6510ms forwards;
 }
 .profileanimation_57{
     stroke-dasharray:104 106;
     stroke-dashoffset:105;
-    animation:profileanimation_draw 30s linear 6620ms forwards;
+    animation:profileanimation_draw 10s linear 6620ms forwards;
 }
 .profileanimation_58{
     stroke-dasharray:46 48;
     stroke-dashoffset:47;
-    animation:profileanimation_draw 30s linear 6740ms forwards;
+    animation:profileanimation_draw 10s linear 6740ms forwards;
 }
 .profileanimation_59{
     stroke-dasharray:12 14;
     stroke-dashoffset:13;
-    animation:profileanimation_draw 30s linear 6860ms forwards;
+    animation:profileanimation_draw 10s linear 6860ms forwards;
 }
 .profileanimation_60{
     stroke-dasharray:11 13;
     stroke-dashoffset:12;
-    animation:profileanimation_draw 30s linear 6970ms forwards;
+    animation:profileanimation_draw 10s linear 6970ms forwards;
 }
 .profileanimation_61{
     stroke-dasharray:23 25;
     stroke-dashoffset:24;
-    animation:profileanimation_draw 30s linear 7090ms forwards;
+    animation:profileanimation_draw 10s linear 7090ms forwards;
 }
 .profileanimation_62{
     stroke-dasharray:44 46;
     stroke-dashoffset:45;
-    animation:profileanimation_draw 30s linear 7200ms forwards;
+    animation:profileanimation_draw 10s linear 7200ms forwards;
 }
 .profileanimation_63{
     stroke-dasharray:19 21;
     stroke-dashoffset:20;
-    animation:profileanimation_draw 30s linear 7320ms forwards;
+    animation:profileanimation_draw 10s linear 7320ms forwards;
 }
 .profileanimation_64{
     stroke-dasharray:9 11;
     stroke-dashoffset:10;
-    animation:profileanimation_draw 30s linear 7440ms forwards;
+    animation:profileanimation_draw 10s linear 7440ms forwards;
 }
 .profileanimation_65{
     stroke-dasharray:8 10;
     stroke-dashoffset:9;
-    animation:profileanimation_draw 30s linear 7550ms forwards;
+    animation:profileanimation_draw 10s linear 7550ms forwards;
 }
 .profileanimation_66{
     stroke-dasharray:12 14;
     stroke-dashoffset:13;
-    animation:profileanimation_draw 30s linear 7670ms forwards;
+    animation:profileanimation_draw 10s linear 7670ms forwards;
 }
 .profileanimation_67{
     stroke-dasharray:13 15;
     stroke-dashoffset:14;
-    animation:profileanimation_draw 30s linear 7790ms forwards;
+    animation:profileanimation_draw 10s linear 7790ms forwards;
 }
 .profileanimation_68{
     stroke-dasharray:15 17;
     stroke-dashoffset:16;
-    animation:profileanimation_draw 30s linear 7900ms forwards;
+    animation:profileanimation_draw 10s linear 7900ms forwards;
 }
 .profileanimation_69{
     stroke-dasharray:21 23;
     stroke-dashoffset:22;
-    animation:profileanimation_draw 30s linear 8020ms forwards;
+    animation:profileanimation_draw 10s linear 8020ms forwards;
 }
 .profileanimation_70{
     stroke-dasharray:17 19;
     stroke-dashoffset:18;
-    animation:profileanimation_draw 30s linear 8130ms forwards;
+    animation:profileanimation_draw 10s linear 8130ms forwards;
 }
 .profileanimation_71{
     stroke-dasharray:14 16;
     stroke-dashoffset:15;
-    animation:profileanimation_draw 30s linear 8250ms forwards;
+    animation:profileanimation_draw 10s linear 8250ms forwards;
 }
 .profileanimation_72{
     stroke-dasharray:13 15;
     stroke-dashoffset:14;
-    animation:profileanimation_draw 30s linear 8370ms forwards;
+    animation:profileanimation_draw 10s linear 8370ms forwards;
 }
 .profileanimation_73{
     stroke-dasharray:14 16;
     stroke-dashoffset:15;
-    animation:profileanimation_draw 30s linear 8480ms forwards;
+    animation:profileanimation_draw 10s linear 8480ms forwards;
 }
 .profileanimation_74{
     stroke-dasharray:83 85;
     stroke-dashoffset:84;
-    animation:profileanimation_draw 30s linear 8600ms forwards;
+    animation:profileanimation_draw 10s linear 8600ms forwards;
 }
 .profileanimation_75{
     stroke-dasharray:9 11;
     stroke-dashoffset:10;
-    animation:profileanimation_draw 30s linear 8720ms forwards;
+    animation:profileanimation_draw 10s linear 8720ms forwards;
 }
 .profileanimation_76{
     stroke-dasharray:9 11;
     stroke-dashoffset:10;
-    animation:profileanimation_draw 30s linear 8830ms forwards;
+    animation:profileanimation_draw 10s linear 8830ms forwards;
 }
 .profileanimation_77{
     stroke-dasharray:13 15;
     stroke-dashoffset:14;
-    animation:profileanimation_draw 30s linear 8950ms forwards;
+    animation:profileanimation_draw 10s linear 8950ms forwards;
 }
 .profileanimation_78{
     stroke-dasharray:19 21;
     stroke-dashoffset:20;
-    animation:profileanimation_draw 30s linear 9060ms forwards;
+    animation:profileanimation_draw 10s linear 9060ms forwards;
 }
 .profileanimation_79{
     stroke-dasharray:16 18;
     stroke-dashoffset:17;
-    animation:profileanimation_draw 30s linear 9180ms forwards;
+    animation:profileanimation_draw 10s linear 9180ms forwards;
 }
 .profileanimation_80{
     stroke-dasharray:14 16;
     stroke-dashoffset:15;
-    animation:profileanimation_draw 30s linear 9300ms forwards;
+    animation:profileanimation_draw 10s linear 9300ms forwards;
 }
 .profileanimation_81{
     stroke-dasharray:16 18;
     stroke-dashoffset:17;
-    animation:profileanimation_draw 30s linear 9410ms forwards;
+    animation:profileanimation_draw 10s linear 9410ms forwards;
 }
 .profileanimation_82{
     stroke-dasharray:17 19;
     stroke-dashoffset:18;
-    animation:profileanimation_draw 30s linear 9530ms forwards;
+    animation:profileanimation_draw 10s linear 9530ms forwards;
 }
 .profileanimation_83{
     stroke-dasharray:15 17;
     stroke-dashoffset:16;
-    animation:profileanimation_draw 30s linear 9650ms forwards;
+    animation:profileanimation_draw 10s linear 9650ms forwards;
 }
 .profileanimation_84{
     stroke-dasharray:13 15;
     stroke-dashoffset:14;
-    animation:profileanimation_draw 30s linear 9760ms forwards;
+    animation:profileanimation_draw 10s linear 9760ms forwards;
 }
 .profileanimation_85{
     stroke-dasharray:20 22;
     stroke-dashoffset:21;
-    animation:profileanimation_draw 30s linear 9880ms forwards;
+    animation:profileanimation_draw 10s linear 9880ms forwards;
 }
 .profileanimation_86{
     stroke-dasharray:15 17;
     stroke-dashoffset:16;
-    animation:profileanimation_draw 30s linear 1000ms forwards;
+    animation:profileanimation_draw 10s linear 1000ms forwards;
 }
 @keyframes profileanimation_draw{
     0%{
