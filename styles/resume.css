@@ -42,20 +42,20 @@
     }
 
     #table-of-contents {
-        page-break-after: always;
-        margin-top: 2em;
-        width: 80%;
-        height: 40%;
-        margin: auto auto;
+	page-break-after: always;
+	margin-top: 2em;
+	width: 80%;
+	height: 40%;
+	margin: auto auto;
     }
 
-    #table-of-contents > h2 {
-        margin-top: 4em;
-    }
+	#table-of-contents > h2 {
+            margin-top: 4em;
+	}
 
-    .figure {
-        page-break-inside: avoid;
-    }
+	.figure {
+            page-break-inside: avoid;
+	}
 }
 
 @media screen {
@@ -95,7 +95,7 @@
 
     .org-ul, .outline-2 {
         float: left;
-        padding: 2.5em 2em 3em;
+        padding: 2.5em 2em 2.8em;
         width: 32em;
     }
 
