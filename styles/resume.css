@@ -95,7 +95,7 @@
 
     .org-ul, .outline-2 {
         float: left;
-        padding: 2.5em 2em 2.8em;
+        padding: 2.5em 2em;
         width: 32em;
     }
 
