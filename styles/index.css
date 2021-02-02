@@ -74,17 +74,17 @@ li p:first-of-type {
     padding: 0;
 }
 .outline-2 {
-    padding: 3rem 0;
+    padding: 3rem 0 0;
 }
 .outline-3 {
-    padding: 2rem 0;
+    padding: 2rem 0 0;
 }
 .outline-4 {
-    padding: 1.85rem 0;
+    padding: 1.85rem 0 0;
 }
 @media (min-width: 1680px) {
     body {
-        font-size: 1vw;
+        font-size: 1.25em;
     }
     #content {
         max-width: 900px;
