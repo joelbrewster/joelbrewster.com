@@ -1,15 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
+
 :root {
     --white: #fefefe;
     --black: #242424;
     --blue: #0000ff;
     --blue-light: #3390ff;
 }
+
 * {
     padding: 0;
     margin: 0;
 }
+
 body {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: 400;
@@ -22,12 +26,14 @@ body {
     display: flex;
     flex-direction: column;
 }
+
 #content {
     margin: auto;
     padding: 3rem 1.25rem;
     max-width: 800px;
     background: url(../img/profile-lines.svg) no-repeat center center;
 }
+
 h1, h2, h3 {
     font-family: "IBM Plex Sans", sans-serif;
 }
@@ -39,25 +45,29 @@ h1.title {
     margin: 0;
     text-align: left;
 }
+
 h2 {
     padding-bottom: 0.75rem;
 }
+
 h3 {
     padding-bottom: 0.5rem;
 }
+
 a:link,
 a:visited {
     color: var(--blue);
     font-weight: 400;
     text-decoration: none;
 }
+
 @media screen and (prefers-color-scheme: dark) {
     a:link,
     a:visited {
-        color: var(--blue-light);
-
+	color: var(--blue-light);
     }
 }
+
 li:before {
     content: "—";
     position: absolute;
@@ -65,40 +75,50 @@ li:before {
     display: inline-block;
     color: var(--blue);
 }
+
 li {
     margin-left: 1.5rem;
     position: relative;
     list-style-type: none;
 }
+
 li p:first-of-type {
     padding: 0;
 }
+
 .outline-2 {
     padding: 3rem 0 0;
 }
+
 .outline-3 {
     padding: 2rem 0 0;
 }
+
 .outline-4 {
     padding: 1.85rem 0 0;
 }
+
 @media (min-width: 1680px) {
     body {
-        font-size: 1.25em;
+	font-size: 1.25em;
     }
+
     #content {
-        max-width: 900px;
+	max-width: 900px;
     }
 }
+
 @media screen and (prefers-color-scheme: dark) {
     body {
-        background-color: var(--black);
-        color: var(--white);
+	background-color: var(--black);
+	color: var(--white);
     }
+
     a:link,
     a:visited {
-        color: var(--blue-light);
+	color: var(--blue-light);
     }
+
     li:before {
 	color: var(--blue-light);
     }

@@ -1,11 +1,8 @@
-/*
- * CSS for org-mode document. Include with
- * #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/resume.css" />
- * Print options
- * Screen options
- */
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
+/* * CSS for org-mode document. Include with * #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/resume.css" /> * Print options * Screen options */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;
+700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;
+700&display=swap');
 :root {
     --white: #fefefe;
     --black: #242424;
@@ -17,28 +14,28 @@
     margin: 2.54cm;
     size: A4;
     @bottom-right {
-        padding-right: 20px;
-        content: "Page " counter(page);
+	padding-right: 20px;
+	content: "Page " counter(page);
     }
 }
 
 @media print {
     footer {
-        bottom: 0em;
-        clear: both;
-        margin-top: 0.5em;
-        padding-top: 0.5em;
-        border-top: 1px solid;
-        width: 100%;
+	bottom: 0em;
+	clear: both;
+	margin-top: 0.5em;
+	padding-top: 0.5em;
+	border-top: 1px solid;
+	width: 100%;
     }
 
     body {
-        font-size: 11pt;
-    	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 11pt;
+	font-family: 'Source Sans Pro', sans-serif;
     }
 
     h2, h3, h4, h5 {
-        page-break-after: avoid;
+	page-break-after: avoid;
     }
 
     #table-of-contents {
@@ -49,28 +46,28 @@
 	margin: auto auto;
     }
 
-	#table-of-contents > h2 {
-            margin-top: 4em;
-	}
+    #table-of-contents > h2 {
+	margin-top: 4em;
+    }
 
-	.figure {
-            page-break-inside: avoid;
-	}
+    .figure {
+	page-break-inside: avoid;
+    }
 }
 
 @media screen {
     * {
-        padding: 0;
-        margin: 0;
+	padding: 0;
+	margin: 0;
     }
 
     body {
-    	font-family: 'Source Sans Pro', sans-serif;
-        font-size: .8em;
-        font-weight: 400;
-        letter-spacing: .75px;
-        line-height: 30px;
-        text-align: left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: .8em;
+	font-weight: 400;
+	letter-spacing: .75px;
+	line-height: 30px;
+	text-align: left;
     }
 
     h1, h2, h3 {
@@ -78,131 +75,130 @@
     }
 
     #content {
-        margin: auto;
-        padding: 4em 0;
-        max-width: 1000px;
+	margin: auto;
+	padding: 4em 0;
+	max-width: 1000px;
     }
 
     .title {
-        display: block;
-        font-weight: 600;
-        margin: 0;
-        padding: 20px 30px 0;
-        text-align: left;
-        width: 100%;
-        text-transform: initial;
+	display: block;
+	font-weight: 600;
+	margin: 0;
+	padding: 20px 30px 0;
+	text-align: left;
+	width: 100%;
+	text-transform: initial;
     }
 
     .org-ul, .outline-2 {
-        float: left;
-        padding: 2.5em 2em;
-        width: 32em;
+	float: left;
+	padding: 2.5em 2em;
+	width: 32em;
     }
 
     .outline-2 p {
-        width: 32em;
+	width: 32em;
     }
 
     .org-ul {
-        margin-top: -4.65em;
+	margin-top: -4.65em;
     }
 
     .org-ul:first-of-type {
-        margin-top: 0;
+	margin-top: 0;
     }
 
     .outline-2:last-child {
-        padding-top: 6em;
-        width: 100%;
+	padding-top: 6em;
+	width: 100%;
     }
 
     .outline-2:last-child .outline-3 {
-        padding-bottom: 3em;
+	padding-bottom: 3em;
     }
 
     .outline-2:last-child p {
-        width: 58em;
-        max-width: 100%;
+	width: 58em;
+	max-width: 100%;
     }
 
     h1, h2, h3, h4, h5, h6 {
-        line-height: 30px;
-        margin-bottom: 5px;
-        margin-top: 0;
-        text-align: left;
+	line-height: 30px;
+	margin-bottom: 5px;
+	margin-top: 0;
+	text-align: left;
     }
 
     h1, h2 {
-        font-weight: 500;
-        text-transform: uppercase;
+	font-weight: 500;
+	text-transform: uppercase;
     }
 
     h3, h4 {
-        font-weight: 200;
+	font-weight: 200;
     }
 
-
     h1 {
-        font-size: 2.25em;
-        margin-bottom: 0;
+	font-size: 2.25em;
+	margin-bottom: 0;
     }
 
     h2 {
-	color: #0000ff;
 	color: var(--blue);
-        font-size: 1.25em;
-        font-weight: 800;
-        margin-bottom: 10px;
+	font-size: 1.25em;
+	font-weight: 800;
+	margin-bottom: 10px;
     }
 
     h3 {
-        font-size: 1em;
+	font-size: 1em;
     }
 
     h4 {
     }
 
     h5 {
-        font-weight: 500;
+	font-weight: 500;
     }
 
     p {
     }
 
     strong, b {
-        font-weight: 800;
+	font-weight: 800;
     }
 
     .figure > p {
-        font-style: italic;
+	font-style: italic;
     }
 
     a:link, a:visited {
 	color: var(--blue);
-        font-weight: 300;
-        text-decoration: none;
+	font-weight: 300;
+	text-decoration: none;
     }
 
     ul {
-        padding-left: 0;
+	padding-left: 0;
     }
 
     li {
-        list-style-type: none;
-        padding-left: 0;
-        position: relative;
+	list-style-type: none;
+	padding-left: 0;
+	position: relative;
     }
 }
 
 @media screen and (prefers-color-scheme: dark) {
     body {
-        background-color: var(--black);
-        color: var(--white);
+	background-color: var(--black);
+	color: var(--white);
     }
-    a:link,
-    a:visited {
-        color: var(--blue-light);
+
+    a:link, a:visited {
+	color: var(--blue-light);
     }
+
     h2 {
 	color: var(--blue-light);
     }
