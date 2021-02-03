@@ -41,10 +41,6 @@
         page-break-after: avoid;
     }
 
-    h2 {
-	color: #0000ff;
-    }
-
     #table-of-contents {
 	page-break-after: always;
 	margin-top: 2em;
@@ -152,6 +148,7 @@
     }
 
     h2 {
+	color: #0000ff;
 	color: var(--blue);
         font-size: 1.25em;
         font-weight: 800;
