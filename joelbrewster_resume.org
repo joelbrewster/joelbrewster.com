@@ -22,7 +22,8 @@
 HTML, CSS (SASS, SCSS), JavaScript, jQuery, PHP, WordPress, WordPress API, Gatsby, ACF, Composer, Yarn, Gulp, Git, React, WHM, cPanel, GA, GTM, Mac OS, Linux, Sketch, Figma, Photoshop, Vim and for everything else, Emacs.
 
 ** ABOUT
-I am a passionate and curious Melbourne based developer with a penchant for front-end development. I enjoy creating engaging experiences, coding pixel perfect interfaces and making the web accessible for all. I love solving problems, coding, studying, plain text, music and chocolate.
+I am a passionate and curious Melbourne based front-end developer.
+I enjoy creating engaging experiences, coding pixel perfect interfaces, solving problems and making the web accessible for all.
 
 ** PROJECTS
 *** *Melbourne Innovation Districts* - https://www.mid.org.au
