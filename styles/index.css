@@ -4,9 +4,9 @@
 
 :root {
     --white: #fefefe;
-    --black: #242424;
-    --blue: #0000ff;
-    --blue-light: #3390ff;
+    --black: #24292F;
+    --accent: #0000ff;
+    --accent-light: #3390ff;
 }
 
 * {
@@ -56,7 +56,7 @@ h3 {
 
 a:link,
 a:visited {
-    color: var(--blue);
+    color: var(--accent);
     font-weight: 400;
     text-decoration: none;
 }
@@ -64,7 +64,7 @@ a:visited {
 @media screen and (prefers-color-scheme: dark) {
     a:link,
     a:visited {
-	color: var(--blue-light);
+	color: var(--accent-light);
     }
 }
 
@@ -73,7 +73,7 @@ li:before {
     position: absolute;
     left: -1.5rem;
     display: inline-block;
-    color: var(--blue);
+    color: var(--accent);
 }
 
 li {
@@ -116,11 +116,11 @@ li p:first-of-type {
 
     a:link,
     a:visited {
-	color: var(--blue-light);
+	color: var(--accent-light);
     }
 
     li:before {
-	color: var(--blue-light);
+	color: var(--accent-light);
     }
 }
 
