@@ -5,6 +5,7 @@
 #+LANGUAGE: en
 #+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.css" />
+#+HTML_HEAD_EXTRA: <script type="text/javascript" src="scripts/app.js" />
 
 I am a *passionate* and *curious* Melbourne based *front-end developer*.
 
