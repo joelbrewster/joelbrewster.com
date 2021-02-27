@@ -1,7 +1,11 @@
 document.addEventListener("DOMContentLoaded", function(){
-    const trigger = document.querySelector(".title");
+    const body = document.querySelector('body');
+    body.className = 'theme-1';
 
-    document.body.className = 'theme-1';
+    const header =  document.querySelector('header');
+    header.insertAdjacentHTML('afterend', '<button class="theme-toggle">cycle themes</button>');
+
+    const trigger = document.querySelector(".theme-toggle");
     trigger.addEventListener("click", () => {
 	changeBackground();
     });
