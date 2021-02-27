@@ -63,12 +63,37 @@ h1, h2, h3 {
     font-family: "IBM Plex Sans", sans-serif;
 }
 
-h1.title {
+.title {
     font-size: 2.25em;
     margin: 0;
     margin-bottom: 3rem;
     font-weight: 600;
     text-align: left;
+    cursor: pointer;
+}
+
+.title:after {
+    content: "Switch Theme";
+    font-size: .35em;
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 2em;
+    width: 9em;
+    text-align: center;
+    margin: .5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: transparent;
+    cursor: pointer;
+    border: none;
+    border-bottom: 1px solid;
+    padding: 0;
+    z-index: 100;
 }
 
 h2 {
@@ -120,35 +145,12 @@ li p:first-of-type {
     padding-bottom: .5rem;
 }
 
-.theme-toggle {
-    position: fixed;
-    right: 0;
-    top: 0;
-    height: 2em;
-    width: 9em;
-    text-align: center;
-    margin: 1em;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-weight: bold;
-    text-transform: uppercase;
-    background: transparent;
-    cursor: pointer;
-    border: none;
-    border-bottom: 1px solid;
-    padding: .2em .5em;
-    font-size: .8em;
-    z-index: 100;
-}
-
 .theme-2 {
     background-color: var(--black);
     color: var(--white);
 }
 
-.theme-2 .theme-toggle {
+.theme-2 .title:after {
     color: var(--white);
     border-bottom: 1px solid var(--white);
 }
@@ -171,7 +173,7 @@ li p:first-of-type {
     opacity: .4;
 }
 
-.theme-3 .theme-toggle {
+.theme-3 .title:after {
     color: var(--accent-neon);
     border-bottom: 1px solid var(--accent-neon);
 }
