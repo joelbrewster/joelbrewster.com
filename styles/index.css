@@ -132,17 +132,20 @@ li p:first-of-type {
     right: 0;
     top: 0;
     height: 2em;
-    width: 8em;
+    width: 9em;
     text-align: center;
     margin: 1em;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     font-weight: bold;
     text-transform: uppercase;
+    background: transparent;
     cursor: pointer;
+    border: none;
     border-bottom: 1px solid;
-    padding: .2em .75em;
+    padding: .2em .5em;
     font-size: .8em;
     z-index: 100;
 }
