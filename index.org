@@ -37,19 +37,37 @@ Here are some memorable projects that I've really enjoyed working on professiona
 
 - [[https://www.gloststudios.com][Glost Studios]]
 
-  An online shop for my wonderfully talented and lovely sister.
+  An online store for a small leafy ceramic studio which sells pottery and classes.
+
+  /Gatsby, Snipcart/
 - [[https://zero-player.netlify.app][Zero-player app]]
 
-  An interface that creates random melodies and chords from cellular automation patterns - desktop Firefox and Chrome only.
+  An interface that creates random melodies and chords from cellular automation patterns
+
+  Desktop Firefox and Chrome only.
+
+  /NexusUI, Tone.js, Monome/
 - [[https://magic-words-study.netlify.app][Magic words study]]
 
-  A study app covering frequency words for Victorian prep classes - optimised for phones.
+  A study app covering frequency words for Victorian prep classes
+
+  Optimised for phones.
+
+  /Gatsby, Embla/
 - [[https://subitising-study.netlify.app][Subitising Study]]
 
-  A conceptual subitising app for younger children to practice - optimised for phones.
+  A conceptual subitising app for younger children to practice
+
+  Optimised for phones.
+
+  /React/
 - [[https://alphabet-and-numbers.netlify.app][Alphabet and Numbers]]
 
-  A learning aid for toddlers to recognise the alphabet and numerical characters - optimised for desktops.
+  A learning aid for toddlers to recognise the alphabet and numerical characters
+
+  Optimised for desktops and keyboards.
+
+  /JS, HTML Audio/
 
 *** CONTACT:
 [[https://www.joelbrewster.com/joelbrewster_resume][Résumé]] ([[https://www.joelbrewster.com/joelbrewster_resume.pdf][pdf]]), [[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster][Linkedin]]
