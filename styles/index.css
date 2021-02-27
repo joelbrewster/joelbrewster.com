@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=block');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=block');
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=block');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=block');
 
 :root {
     --white: #fefefe;
@@ -132,7 +132,6 @@ li p:first-of-type {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
     background: transparent;
     cursor: pointer;
     border: none;
