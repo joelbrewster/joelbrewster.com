@@ -42,28 +42,28 @@ Here are some memorable projects that I've really enjoyed working on professiona
   /Gatsby, Snipcart/
 - [[https://zero-player.netlify.app][Zero-player app]]
 
-  An interface that creates random melodies and chords from cellular automation patterns
+  An interface that creates random melodies and chords from cellular automation patterns.
 
   Desktop Firefox and Chrome only.
 
   /NexusUI, Tone.js, Monome/
 - [[https://magic-words-study.netlify.app][Magic words study]]
 
-  A study app covering frequency words for Victorian prep classes
+  A study app covering frequency words for Victorian prep classes.
 
   Optimised for phones.
 
   /Gatsby, Embla/
 - [[https://subitising-study.netlify.app][Subitising Study]]
 
-  A conceptual subitising app for younger children to practice
+  A conceptual subitising app for younger children to practice.
 
   Optimised for phones.
 
   /React/
 - [[https://alphabet-and-numbers.netlify.app][Alphabet and Numbers]]
 
-  A learning aid for toddlers to recognise the alphabet and numerical characters
+  A learning aid for toddlers to recognise the alphabet and numerical characters.
 
   Optimised for desktops and keyboards.
 
