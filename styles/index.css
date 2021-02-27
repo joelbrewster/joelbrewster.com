@@ -35,6 +35,20 @@ body {
     transition: opacity: .5s linear;
 }
 
+body:after {
+    content: " ";
+    background: url(../img/background.svg) no-repeat center center;
+    background-size: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0;
+    filter: blur(5px);
+    pointer-events: none;
+}
+
 .theme-1, .theme-2, .theme-3 {
     opacity: 1;
     transition: opacity: .5s linear;
@@ -47,12 +61,6 @@ body {
     max-width: 800px;
     background: url(../img/profile-lines.svg) no-repeat center center;
 }
-
-/* @media (min-width: 1680px) { */
-/*     #content { */
-/* 	max-width: 900px; */
-/*     } */
-/* } */
 
 header {
     display: flex;
@@ -164,17 +172,7 @@ li p:first-of-type {
 }
 
 .theme-3:after {
-    content: " ";
-    background: url(../img/background.svg) no-repeat center center;
-    background-size: cover;
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    opacity: 0.4;
-    filter: blur(5px);
-    pointer-events: none;
+    opacity: .4;
 }
 
 .theme-3 .theme-toggle {
