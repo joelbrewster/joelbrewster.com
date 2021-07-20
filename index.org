@@ -4,8 +4,8 @@
 #+STARTUP: inlineimages
 #+LANGUAGE: en
 #+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.css" />
-#+HTML_HEAD_EXTRA: <script type="text/javascript" defer src="scripts/app.js" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.min.css" />
+#+HTML_HEAD_EXTRA: <script type="text/javascript" defer src="scripts/app.min.js" />
 
 I am a *passionate* and *curious* Melbourne based *front-end developer*.
 
@@ -14,6 +14,7 @@ I enjoy *creating* engaging experiences, *coding* pixel perfect interfaces, *sol
 * WORK:
 Here are some memorable projects that I've really enjoyed working on professionally:
 
+[[https://lebuns.com.au/][LeBuns]],
 [[https://nextandco.com.au][Next&Co]],
 [[https://www.campbellpage.com.au][Campbell Page]],
 [[https://www.dunlopdiy.com][DunlopDIY]],
