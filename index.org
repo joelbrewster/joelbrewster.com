@@ -18,13 +18,13 @@ Here are some memorable projects that I've really enjoyed working on professiona
 [[https://nextandco.com.au][Next&Co]],
 [[https://www.campbellpage.com.au][Campbell Page]],
 [[https://www.dunlopdiy.com][DunlopDIY]],
-[[https://morrismotley.com][Morris Motley]],
+[[https://www.deepheat.com.au/][Deep Heat]],
 [[https://www.mid.org.au][Melbourne Innovation Districts]],
 [[https://www.ardex.com][Ardex]],
 [[https://littlemaymusic.com/][Little May]],
 [[https://mwf.com.au/][Melbourne Writers Festival 2018]],
 [[https://www.invictusgames2018.com/][Invictus Games 2018]],
-[[http://cmcrocks.com/][CMC Rocks]],
+[[https://cmcrocks.com/][CMC Rocks]],
 [[https://nowsound.online/][Now Sound Melbourne's Listening]],
 [[https://queensplacemelbourne.com.au][Queens Place Melbourne]],
 [[https://www.jblwwc.com.au/][JBL Weekend Warrior]],
@@ -38,39 +38,39 @@ Here are some memorable projects that I've really enjoyed working on professiona
 
 - [[https://www.gloststudios.com][Glost Studios]]
 
-  An online store for a small leafy ceramic studio which sells pottery and classes.
+An online store for a small leafy ceramic studio which sells pottery and classes.
 
-  /Gatsby, Snipcart/
+/Originally Gatsby and Snipcart, now WordPress/
+
+
 - [[https://zero-player.netlify.app][Zero-player app]]
 
-  An interface that creates random melodies and chords from cellular automation patterns.
+An interface that creates random melodies and chords from cellular automation patterns.
 
-  Desktop Firefox and Chrome only.
+Desktop Firefox and Chrome only.
 
-  /NexusUI, Tone.js, Monome/
+/NexusUI, Tone.js, Monome/
 - [[https://magic-words-study.netlify.app][Magic words study]]
 
-  A study app covering frequency words for Victorian prep classes.
+A study app covering frequency words for Victorian prep classes.
 
-  Optimised for phones.
+Optimised for phones.
 
-  /Gatsby, Embla/
+/Gatsby, Embla/
 - [[https://subitising-study.netlify.app][Subitising Study]]
 
-  A conceptual subitising app for younger children to practice.
+A conceptual subitising app for younger children to practice.
 
-  Optimised for phones.
+Optimised for phones.
 
-  /React/
+/React/
 - [[https://alphabet-and-numbers.netlify.app][Alphabet and Numbers]]
 
-  A learning aid for toddlers to recognise the alphabet and numerical characters.
+A learning aid for toddlers to recognise the alphabet and numerical characters.
 
-  Optimised for desktops and keyboards.
+Optimised for desktops and keyboards.
 
-  /JS, HTML Audio/
+/JS, HTML Audio/
 
 *** CONTACT:
-[[https://www.joelbrewster.com/joelbrewster_resume][Résumé]] ([[https://www.joelbrewster.com/joelbrewster_resume.pdf][pdf]]), [[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster][Linkedin]]
-
-
+[[https://www.joelbrewster.com/joelbrewster_resume.pdf][Résumé]], [[https://www.github.com/joelbrewster][Github]], [[https://www.linkedin.com/in/joelbrewster][Linkedin]]
