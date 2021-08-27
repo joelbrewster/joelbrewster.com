@@ -92,6 +92,10 @@ li:before {
     color: var(--accent);
 }
 
+ul {
+    margin-top: 1rem;
+}
+
 li {
     margin-left: 1.5rem;
     margin-bottom: .5rem;
