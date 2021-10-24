@@ -16,17 +16,17 @@
     margin: 0;
 }
 
+html {
+  font-size: medium;
+}
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-    font-weight: 400;
-    letter-spacing: 0.75px;
-    line-height: 1.5em;
-    text-align: left;
+    font-size: 1rem;
+    line-height: 1.4;
     background-color: var(--white);
     color: var(--black);
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
 }
 
 body:after {
@@ -45,30 +45,25 @@ body:after {
 
 #content {
     margin: auto;
-    padding: 5rem 1.25rem;
+    padding: 5em 1.25em;
     position: relative;
     max-width: 800px;
     background: url(../img/profile-lines.svg) no-repeat center center;
 }
 
-header {
-    display: flex;
-}
-
 h1.title {
-    font-size: 2.25em;
-    margin: 0;
-    margin-bottom: 3rem;
+    font-size: 2.25rem;
+    margin: 0 0 1.5em;
     font-weight: 600;
     text-align: left;
 }
 
 h2 {
-    padding-bottom: 0.75rem;
+    padding-bottom: 0.75em;
 }
 
 h3 {
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.5em;
 }
 
 a:link,
@@ -102,19 +97,19 @@ li p:first-of-type {
 }
 
 .outline-2 {
-    padding: 3rem 0 0;
+    padding: 3em 0 0;
 }
 
 .outline-3 {
-    padding: 2rem 0 0;
+    padding: 2em 0 0;
 }
 
 .outline-4 {
-    padding: 1.85rem 0 0;
+    padding: 1.85em 0 0;
 }
 
 .outline-text-2 p {
-    padding-bottom: .5rem;
+    padding-bottom: .5em;
 }
 
 .theme-toggle {
