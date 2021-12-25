@@ -3,7 +3,7 @@
 #+LANGUAGE: en
 #+STARTUP: inlineimages
 #+LANGUAGE: en
-#+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
+#+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil html-style:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.min.css" />
 #+HTML_HEAD_EXTRA: <script type="text/javascript" defer src="scripts/app.min.js" ></script>
 
