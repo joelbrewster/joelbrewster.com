@@ -13,7 +13,7 @@
 
 
 + *Phone*: +61 450 512 930
-+ *Email*: hi@joelbrewster.com
++ *Email*: resume@joelbrewster.com
 + *Homepage*: joelbrewster.com
 + *Github*: github.com/joelbrewster
 + *LinkedIn*: linkedin.com/in/joelbrewster
