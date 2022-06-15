@@ -4,6 +4,8 @@
 #+STARTUP: inlineimages
 #+LANGUAGE: en
 #+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil html-style:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:nil tags:nil tasks:nil tex:nil timestamp:nil toc:nil
+
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/index.min.css" />
 #+HTML_HEAD_EXTRA: <script type="text/javascript" defer src="scripts/app.min.js" ></script>
 
