@@ -92,7 +92,7 @@ At Bone Digital I was across the full stack. I set up custom site builds, struct
 
 At Bolster, I worked on small to medium custom WordPress builds, landing pages and supported senior developers when needed so they could work on larger builds. I worked on music festival sites and built artist pages and a larger site from start to finish using their Trellis setup. Each site was highly custom, with each module and page having the ability to be altered; from main colors to element alignment and padding options from the backend all reflected on the front end.
 
-/WordPress, SASS (BEM), Javascript, ACF, Composer, Yarn, Gulp, Blade, Twig, Git, GA, GTM./
+/WordPress, SASS (BEM), JavaScript, ACF, Composer, Yarn, Gulp, Blade, Twig, Git, GA, GTM./
 
 *** *Pugh Morgan*
 /Jan 2018 - Jun 2018/ | Melbourne, Victoria, Australia
@@ -111,9 +111,9 @@ With YC I mostly worked with WordPress and a Laravel build across various client
 *** *Bourne Digital*
 /Mar 2017 - Jul 2017/ | Melbourne, Victoria, Australia
 
-I was hired at Bourne Digital as a contractor to complete some work on their site. After the first week, I was hired full time to complete various other smaller websites, fix browser compatibility issues on existing work and more recently look into building a CMS remodel of their existing site. Later, I worked with SAP to create business enterprise software. SAP is enterprise resource planning software (Javscript) that deals with systems, applications and products in data processing.
+I was hired at Bourne Digital as a contractor to complete some work on their site. After the first week, I was hired full time to complete various other smaller websites, fix browser compatibility issues on existing work and more recently look into building a CMS remodel of their existing site. Later, I worked with SAP to create business enterprise software. SAP is enterprise resource planning software (JavaScript) that deals with systems, applications and products in data processing.
 
-/Javascript, WordPress, CraftCMS, SCSS, jQuery, ACF, Gulp, Git, SAP./
+/JavaScript, WordPress, CraftCMS, SCSS, jQuery, ACF, Gulp, Git, SAP./
 
 *** *Love and Money*
 /Sep 2016 - Jan 2017/ | Melbourne, Victoria, Australia
